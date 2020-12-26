@@ -1,4 +1,4 @@
-# Hid-Fb-Non-sponsored
+# Hide-Fb-Non-sponsored
 Before installing this user script you need to install one of the following browser extension or addon... For Firefox and related
 
 https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
